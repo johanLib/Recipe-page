@@ -39,8 +39,7 @@
 
 </div>
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Recipe-page-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Recipe-page-koxpeBUmI). Created using Tailwind CSS with a responsive design
 <h2 align="center">Links</h2>
 
 - Solution URL: [Recipe page | Frontend Mentor](https://www.frontendmentor.io/solutions/Recipe-page-solution-5JPlrVzzgi)
